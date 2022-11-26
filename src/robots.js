@@ -43,7 +43,7 @@ export const robots = [
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Nicholas Run',
     username: 'Maxime_Nienow',
     email: 'Sherwood@rosamond.me'
   },
@@ -55,8 +55,20 @@ export const robots = [
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'Clem DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
-  }
+  },
+  {
+    id: 11,
+    name: 'Eduard Timis',
+    username: 'Eduard.Timis',
+    email: 'timiseduard@yahoo.com'
+  },
+  {
+    id: 12,
+    name: 'John Cena',
+    username: 'John.Cena',
+    email: 'johnC@wwe.com'
+  },
 ];
