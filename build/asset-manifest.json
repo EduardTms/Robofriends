@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72b06836.css",
+    "main.js": "/static/js/main.c184ec83.js",
+    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
+    "static/media/Amberg.woff": "/static/media/Amberg.8b388389017224d28811.woff",
+    "index.html": "/index.html",
+    "main.72b06836.css.map": "/static/css/main.72b06836.css.map",
+    "main.c184ec83.js.map": "/static/js/main.c184ec83.js.map",
+    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b06836.css",
+    "static/js/main.c184ec83.js"
+  ]
+}
