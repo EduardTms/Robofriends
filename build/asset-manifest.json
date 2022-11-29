@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.72b06836.css",
-    "main.js": "/static/js/main.c184ec83.js",
-    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
-    "static/media/Amberg.woff": "/static/media/Amberg.8b388389017224d28811.woff",
-    "index.html": "/index.html",
-    "main.72b06836.css.map": "/static/css/main.72b06836.css.map",
-    "main.c184ec83.js.map": "/static/js/main.c184ec83.js.map",
-    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/RoboFriends/static/css/main.900a4187.css",
+    "main.js": "/RoboFriends/static/js/main.220891d8.js",
+    "static/js/787.32032a02.chunk.js": "/RoboFriends/static/js/787.32032a02.chunk.js",
+    "static/media/Amberg.woff": "/RoboFriends/static/media/Amberg.8b388389017224d28811.woff",
+    "index.html": "/RoboFriends/index.html",
+    "main.900a4187.css.map": "/RoboFriends/static/css/main.900a4187.css.map",
+    "main.220891d8.js.map": "/RoboFriends/static/js/main.220891d8.js.map",
+    "787.32032a02.chunk.js.map": "/RoboFriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72b06836.css",
-    "static/js/main.c184ec83.js"
+    "static/css/main.900a4187.css",
+    "static/js/main.220891d8.js"
   ]
 }
